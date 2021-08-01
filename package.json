@@ -1,0 +1,20 @@
+{
+  "name": "react-mod-gen",
+  "version": "1.0.2",
+  "description": "",
+  "main": "bin/index.js",
+  "bin": {
+    "mod-gen": "./bin/index.js"
+  },
+  "author": "Jake Loew",
+  "license": "MIT",
+  "dependencies": {
+    "shelljs": "^0.8.4"
+  },
+  "homepage": "https://www.npmjs.com/package/react-mod-gen",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JakeLo123/react-mod-gen"
+  },
+  "keywords": ["boilerplate", "automation", "taskflows", "ESmodules", "react"]
+}

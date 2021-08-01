@@ -13,7 +13,7 @@ const featureContent = `/** @jsx jsx */
 import { css, jsx } from '@emotion/core';
 import PropTypes from 'prop-types';
 
-${dirName}.PropTypes = {};
+${dirName}.propTypes = {};
 
 function ${dirName}() {
   // write some code 🍔
